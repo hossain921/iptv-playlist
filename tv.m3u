@@ -62,8 +62,7 @@ https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 https://app24.jagobd.com.bd/.../deshtv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Ekushey TV
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1, GTV
 https://app24.jagobd.com.bd/.../gazibdz.stream/tracks-v1a1/mono.m3u8
 
