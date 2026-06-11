@@ -1,6 +1,8 @@
 #EXTM3U
 
 # ===== BANGLADESHI CHANNELS =====
+#EXTINF:-1, Fancode
+https://bdixtv247.techpriyo.com/channel/bangladesh-vs-australia/live
 
 #EXTINF:-1, Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
