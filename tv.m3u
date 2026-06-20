@@ -4,6 +4,9 @@
 #EXTINF:-1, Somoy
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 
+#EXTINF:-1, DSPORTS
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+
 #EXTINF:-1, 1 TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
@@ -176,3 +179,12 @@ https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
 
 #EXTINF:-1, Delicious
 https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
+
+#EXTINF:-1, BEIN SPORT
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1, Fifa
+https://c822c659.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/a4288c44-0852-418a-874a-6068c1f660a7/2.m3u8
+
+#EXTINF:-1, Omann sports
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
